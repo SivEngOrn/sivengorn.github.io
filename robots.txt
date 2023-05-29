@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sivengorn.github.io/sitemap-index.xml
+Host: https://sivengorn.github.io
