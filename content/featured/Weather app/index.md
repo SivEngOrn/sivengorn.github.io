@@ -3,7 +3,7 @@ date: '1'
 title: 'Weather app'
 cover: 'weather.png'
 github: 'https://github.com/SivEngOrn/weather-app'
-external: 'https://teal-bubblegum-c81b56.netlify.app/'
+external: 'https://miniweatherforecast.netlify.app/'
 tech:
   - HTML/CSS/Javascript
   - Weather API
