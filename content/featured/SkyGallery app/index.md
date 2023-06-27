@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'SkyGallery'
 cover: 'skygallery.png'
 github: 'https://github.com/SivEngOrn/skygallery_frontend'

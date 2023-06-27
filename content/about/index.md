@@ -2,13 +2,20 @@
 title: 'About Me'
 avatar: 'profile.png'
 skills:
+  - Vue.js
+  - React.js
+  - Next.js
   - Python
-  - Vue js
-  - React js
+  - HTML/CSS/JavaScript
+  - TypeScript
+  - Tailwind CSS
+  - Material UI
+  - SCSS/SASS
   - Figma
+  - PostgreSQL
+  - MongoDB
   - Data Visualization
   - Node js
-  - SQL
 ---
 
 I am currently a final year student at [Kirirom Institute of Technology, KIT](https://kit.edu.kh/). I will be graduating in October with a bachelor's degree of Software Engineering.
